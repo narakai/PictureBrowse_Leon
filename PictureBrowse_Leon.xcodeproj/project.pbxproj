@@ -12,6 +12,7 @@
 		FCA1511BBFC1A29201731304 /* CollectionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA152952507AA0954BF690F /* CollectionModel.swift */; };
 		FCA153BDC0A5FC11CA337A24 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA15A6EFA668B25FD32243A /* ViewController.swift */; };
 		FCA155994AE9E64F865AB1A1 /* CollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA1500679BE90EFE1C6C201 /* CollectionCell.swift */; };
+		FCA157961CE1C5E8C551A560 /* CollectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA15A6CD6917F036E610C49 /* CollectionHeader.swift */; };
 		FCA159CE654EBC211477538E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FCA156EF0DDE7CE58F67FD1A /* Main.storyboard */; };
 		FCA15FA31C6838E137565D98 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCA155EF83391693116136F9 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
@@ -23,6 +24,7 @@
 		FCA155EF83391693116136F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FCA156DC7F689F9A552E337C /* PictureBrowse_Leon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PictureBrowse_Leon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FCA15A6223EC29467BDEE328 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FCA15A6CD6917F036E610C49 /* CollectionHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionHeader.swift; sourceTree = "<group>"; };
 		FCA15A6EFA668B25FD32243A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FCA15BAA45CC0DE29125CC57 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FCA15E3E104CE6345F8CCD3C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
@@ -50,6 +52,7 @@
 				FCA15A6EFA668B25FD32243A /* ViewController.swift */,
 				FCA152952507AA0954BF690F /* CollectionModel.swift */,
 				FCA1500679BE90EFE1C6C201 /* CollectionCell.swift */,
+				FCA15A6CD6917F036E610C49 /* CollectionHeader.swift */,
 			);
 			path = PictureBrowse_Leon;
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 				FCA153BDC0A5FC11CA337A24 /* ViewController.swift in Sources */,
 				FCA1511BBFC1A29201731304 /* CollectionModel.swift in Sources */,
 				FCA155994AE9E64F865AB1A1 /* CollectionCell.swift in Sources */,
+				FCA157961CE1C5E8C551A560 /* CollectionHeader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
